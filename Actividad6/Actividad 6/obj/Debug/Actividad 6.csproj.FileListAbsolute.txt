@@ -1,0 +1,24 @@
+C:\Users\marhe\Documents\Actividad 6\Actividad 6\bin\Debug\Actividad 6.exe.config
+C:\Users\marhe\Documents\Actividad 6\Actividad 6\bin\Debug\Actividad 6.exe
+C:\Users\marhe\Documents\Actividad 6\Actividad 6\bin\Debug\Actividad 6.pdb
+C:\Users\marhe\Documents\Actividad 6\Actividad 6\obj\Debug\Actividad 6.csprojResolveAssemblyReference.cache
+C:\Users\marhe\Documents\Actividad 6\Actividad 6\obj\Debug\Actividad 6.exe
+C:\Users\marhe\Documents\Actividad 6\Actividad 6\obj\Debug\Actividad 6.pdb
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\Actividad 6.exe.config
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.exe
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.pdb
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.csprojResolveAssemblyReference.cache
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.csproj.App.config
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\Actividad 6.exe.config
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.exe
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.pdb
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.csproj.App.config
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\obj\Debug\Actividad 6.csprojResolveAssemblyReference.cache
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\Actividad 6.exe
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\Actividad 6.pdb
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\BRM\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\Actividad 6\Actividad 6\bin\Debug\System.Net.Http.Primitives.xml

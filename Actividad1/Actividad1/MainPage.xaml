@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Actividad1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Actividad1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="Press" Content="Presioname" HorizontalAlignment="Center" Margin="135,49,128,0" VerticalAlignment="Top" Click="Press_Click" RenderTransformOrigin="-0.309,0.531" />
+        <TextBlock x:Name="ResulttextBlock" HorizontalAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Margin="181,146,179,474"/>
+        <TextBlock x:Name="TB" HorizontalAlignment="Left" Margin="28,24,0,0" TextWrapping="Wrap" Text="¿Quieres conocer mi nombre y no. de cuenta?" VerticalAlignment="Top" Width="306"/>
+
+    </Grid>
+</Page>
