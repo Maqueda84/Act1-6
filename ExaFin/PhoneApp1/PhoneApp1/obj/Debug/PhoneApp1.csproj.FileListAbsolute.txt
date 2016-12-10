@@ -1,0 +1,29 @@
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xap
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.csprojResolveAssemblyReference.cache
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\obj\Debug\App.g.cs
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\marhe\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\SEMESTRE 7\06-Programación de Dispositivos Móviles\APP Flickr\Demo_ListPicker\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
